@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Hôk bíc em có còn nhớ',
-    introDesc: ` #Cfs_800: "Hà Nội đổ lại là tại động còn người đổ Khánh Ngân chính là tại hạ"
+    introDesc: ` #Cfs_800: "Hà Nội đổ lạnh là tại đông còn người đổ Khánh Ngân chính là tại hạ"
     `,
     btnIntro: 'da nho <3333',
     title: 'Chị hôk bic tại sao chị lại iu em nhìu đến zzzz @@',
