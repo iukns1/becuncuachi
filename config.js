@@ -6,7 +6,7 @@ const CONFIG = {
     title: 'Chị hôk bic tại sao chị lại iu em nhìu đến zzzz @@',
     desc: ' em cũng z mà đúng hok!?!? ',
     btnYes: 'da dung iu chi rat nhiuuu',
-    btnNo: 'no, tam giac nẽt',
+    btnNo: 'nô, tam giac nẽt',
     question:'nhiu luc tu hoi tren the gioi co 7 ngan ty ng ma tai sao em lai chon chi :<',
     btnReply: 'gui chiiii',
     reply: 'de thuong nhu phuong thao ai lai ko iu co chu',
